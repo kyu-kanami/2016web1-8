@@ -27,7 +27,7 @@ body{
 #gnav div.img {
   display: table-cell;
   vertical-align: middle;
-  background: url(../img/webProSprite.png) no-repeat;
+  background: url(../img/webProSprit.png.png) no-repeat;
   width: 55px;
   height: 46px;
 }
